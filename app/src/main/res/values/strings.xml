@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="et_value">Enter a Temperature Value</string>
+</resources>
